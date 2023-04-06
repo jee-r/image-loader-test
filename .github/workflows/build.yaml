@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - main
+      - loader-in-config
 
 jobs:
   build:
